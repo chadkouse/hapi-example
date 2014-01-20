@@ -1,0 +1,4 @@
+
+<html><body>Hi {{name}}<br/>
+<img src="/coke_short.png"/>
+</body></html>
